@@ -1,4 +1,4 @@
-Continual Learning in Large Language Models Postion Paper
+CONTINUAL LEARNING IN LARGE LANGUAGE MODELS POSTION PAPER
 
 Asymmetric Sphere Architecture and Background Micro Fine-Tuning
 
